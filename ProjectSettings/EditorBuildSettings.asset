@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: 5ee74cd7b009a3b44af1ac7ffd29f3dd
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: 19bce59556862144896c534c5f3aa97a
+  - enabled: 1
+    path: Assets/Scenes/MapScene.unity
+    guid: baed1c8dcd8195a43af73cd38f08f7dc
+  - enabled: 1
+    path: Assets/Scenes/CameraScene.unity
+    guid: 028e2b0827688144d90207d8d42be9c7
+  - enabled: 1
+    path: Assets/Scenes/RegisterScene.unity
+    guid: 643fa29701f2abb479d912b53046ce67
+  - enabled: 1
+    path: Assets/Scenes/AccountScene.unity
+    guid: eafda4f97328100488464b8c9acb1832
+  - enabled: 1
+    path: Assets/Scenes/LandmarksScene.unity
+    guid: 6a402c3e47f715547b79c3dafc48654d
+  - enabled: 1
+    path: "Assets/Scenes/\u0410chievementsScene.unity"
+    guid: f0a0a8bc413b1214e9e66a0c726d2d26
+  - enabled: 1
+    path: Assets/Scenes/CameraAchievements.unity
+    guid: e43ec9c35c46be84e9371592d23b44c6
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark0Scene.unity
+    guid: 4bb875deafa6b084b99ac369798f5a87
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark1Scene.unity
+    guid: daf2bc384c0946e4aa0234ab8db5212a
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark2Scene.unity
+    guid: e859eb4e91bce734582e65dd2c15cacb
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark3Scene.unity
+    guid: 34196b815a4ce96459e639657af879d4
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark4Scene.unity
+    guid: c42696d4a2340334db03f1845ed4fdd8
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark5Scene.unity
+    guid: 98d8e78092f95c14086f819c09fe16d1
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark6Scene.unity
+    guid: 58c7cf342b474de44b95defbc9b974a8
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark7Scene.unity
+    guid: 45a847f1f3075b14c8bc0638f1920615
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark8Scene.unity
+    guid: 0a32d2094df8304489047dc003c39213
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark9Scene.unity
+    guid: 99c295033d63df94aa5232a165a993f5
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark10Scene.unity
+    guid: 19794060b0f54c74cb88a75511f7041e
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark11Scene.unity
+    guid: ebd8caf1e32890d47a4b3a31881599af
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark12Scene.unity
+    guid: 044c543e6e5f3774c9512bd88c21cd12
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark13Scene.unity
+    guid: 1aff8814ae3a1784bbc99ca8b0ae50be
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark14Scene.unity
+    guid: 95f9e787c03660a49a36dcf491db2e58
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark15Scene.unity
+    guid: b5f1363a02f97c64b991d40298028820
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark16Scene.unity
+    guid: 726457539bb4b9e47adde0ded5b2434d
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark17Scene.unity
+    guid: 4b47120999d12ef45b58c9762c0d24c9
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark18Scene.unity
+    guid: 01e09b82d7b37fc44bdc529fc1efc707
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark19Scene.unity
+    guid: 0dd0bfc0cbeeeb841856ac9b31284235
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark20Scene.unity
+    guid: 72151e6f062872648a5d7bac9dacf7f2
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark21Scene.unity
+    guid: b3cf3fac1e30bc045ad84fcc45e10675
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark22Scene.unity
+    guid: 60ff5a19203c4254686c962aabf4e610
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark23Scene.unity
+    guid: 66209eb17696ab9459a88ae45a48f7ea
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark24Scene.unity
+    guid: fb92103dba7caa94a8b0daf632b74c8b
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark25Scene.unity
+    guid: 4531dcaa80859ac4296c9698a988c37f
+  - enabled: 1
+    path: Assets/Scenes/LandmarkScenes/Landmark26Scene.unity
+    guid: 4c04722ea6052d545a3b02f8d0c11f0d
+  - enabled: 1
+    path: Assets/Scenes/ColoursScene.unity
+    guid: 40f40f4fc5effa24291c39938a5418e1
